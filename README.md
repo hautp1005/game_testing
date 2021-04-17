@@ -1,4 +1,3 @@
-# game_testing
 # Before run test please install python3 on your computer
 # How to run file
 1. Install Airtest app on your computer
